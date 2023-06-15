@@ -1,5 +1,5 @@
 Project Name
-[Project Name]
+Parallax Effect Website
 
 Description
 This repository hosts the source code and assets for [Project Name], a website showcasing the application of Parallax Effect. The website has been developed using modern web technologies such as CSS 3D Transforms, CSS Positioning, and CSS Flexbox.
